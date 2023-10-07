@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krish Aaryan Sethi</h1>
-<h3 align="center">A Data Science Enthusiast</h3>
+<h3 align="center">I am a avid software engineering student interested in data science, machine learning and web development</h3>
 
 - 🌱 I’m currently learning **Machine Learning for Trading,Object Oriented Programming**
 
